@@ -5,7 +5,7 @@ const path = require('path');
 const exec = require('child_process').exec;
 const fs = require('fs');
 
-const ProjectTplGitPath = "https://github.com/xxx/xx.git";
+const ProjectTplGitPath = "https://github.com/duduhl/react-create-cli.git";
 
 module.exports = () => {
 	co(function *() {
