@@ -1,16 +1,14 @@
 # React-cli
 
-> 创建 react 项目初始化脚手架搭建
+> 本地 clone Git远程仓库
 
 ## 目录结构
-```
-|----------------------------------
-| - bin
-|   - react-cli.js
-| - command
-|   - init.js
-| - package.json
-|----------------------------------
+```tree
+├── bin
+│   ├── react-cli.js
+├── command
+│   ├── init.js
+└─── package.json
 ```
 
 ## 核心模块 commander
